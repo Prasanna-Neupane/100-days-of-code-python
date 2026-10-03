@@ -58,9 +58,21 @@ The exact topics may change as I progress and discover new areas of Python.
 | ------- | ------------------- | ------ |
 | Day 01  | Python Basics       | ✅      |
 | Day 02  | Python Fundamentals | ✅      |
-| Day 03  | Coming Soon...      | ⏳      |
-| Day 04  | Coming Soon...      | ⏳      |
-| ...     | ...                 | ...    |
+| Day 03  | Data types, operators & string methods | ✅ |
+| Day 04  | Functions | ✅ |
+| Day 05  | Strings & string methods | ✅ |
+| Day 06  | AuditPay project: payments & security | ✅ |
+| Day 07  | Conditionals & parity checks | ✅ |
+| Day 08  | Loops & conditionals | ✅ |
+| Day 09  | Dictionaries & loops | ✅ |
+| Day 10  | Exceptions & loop errors | ✅ |
+| Day 11  | Function arguments & lists | ✅ |
+| Day 12  | Randomness, time & tuples | ✅ |
+| Day 13  | Docstrings & methods | ✅ |
+| Day 14  | Recursion | ✅ |
+| Day 15  | Errors & raising exceptions | ✅ |
+| Day 16  | Enumerate | ✅ |
+| Day 17  | Operating system module | ✅ |
 | Day 100 | Final Project       | ⏳      |
 
 > This table will be updated throughout my journey.
@@ -99,15 +111,15 @@ Each day's folder contains the code, exercises, and/or projects I worked on that
 
 ## 📈 Progress
 
-**Days Completed:** `2 / 100`
+**Days with work recorded:** `17 / 100`
 
 ```text
-██░░░░░░░░░░░░░░░░░░  2%
+███░░░░░░░░░░░░░░░░░  17%
 ```
 
 ### 🔥 Current Streak
 
-`2 days`
+`Not tracked` — the repository shows work for Days 1–17, but does not record the dates each day was completed.
 
 I will keep updating this as I continue the challenge.
 
